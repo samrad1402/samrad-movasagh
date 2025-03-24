@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>سام راد</title>
+  <style>
+    body { font-family: Arial, sans-serif; text-align: center; background-color: #f0f8ff; }
+    h1 { color: #ff4500; }
+    p { color: #555; }
+  </style>
+</head>
+<body>
+  <h1>به سایت سام راد خوش آمدید!</h1>
+  <p>این سایت برای خاطرات و داستان‌های زیبای سام راد ساخته شده است.</p>
+</body>
+</html>
